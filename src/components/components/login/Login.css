@@ -1,0 +1,33 @@
+.bold {
+    font-weight: 600;
+}
+
+.form {
+    background-color: #7ec6e8;
+    margin-bottom: 100px;
+}
+
+.form-label {
+    padding: 40px 40px 0px 40px;
+}
+
+.button {
+    margin: 50px;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 2rem;
+}
+
+.link {
+    color: black;
+    padding-bottom: 2rem;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    width: 40rem;
+}

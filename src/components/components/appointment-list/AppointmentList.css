@@ -1,0 +1,28 @@
+.appointments-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.element-center{
+    margin-left: 25rem;
+    margin-top: 7rem;
+    width: 50rem;
+    color: #08297c;
+}
+
+.table-heading {
+    color: #08297c;
+    font-size: 18px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+
+.data-show{
+    margin-left: 47rem;
+    width: 10rem;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+}

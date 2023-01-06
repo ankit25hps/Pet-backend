@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    align-items: center;
+    width: 70%;
+}
+.user-pic {
+    margin-left: 16rem;
+    width: 20%;
+    padding: 10px;
+}
+
+.name {
+    margin-left: 17.5rem;
+    width: 10rem;
+    background-color: #fff;
+}
+.email{
+    margin-left: 15rem;
+    width: 15rem;
+    padding: 0.5rem;
+    background-color: #fff;
+}
+

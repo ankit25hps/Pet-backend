@@ -1,0 +1,47 @@
+.bold {
+    font-weight: 600;
+}
+
+.form {
+    background-color: #7ec6e8;
+    margin-bottom: 10px;
+}
+
+.form-label {
+    padding: 40px 40px 0px 40px;
+}
+
+.button {
+    margin: 50px;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.pet-form {
+    width: 50vw;
+}
+
+.label-style {
+    font-weight: 500;
+    color: #08297c;
+}
+
+.btn-style {
+    background-color: #08297c;
+    cursor: pointer;
+}
+
+.btn-style:focus {
+    background-color: #08297c;
+    border-style: outset;
+}

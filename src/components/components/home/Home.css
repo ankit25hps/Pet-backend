@@ -1,0 +1,20 @@
+.main {
+    padding-left: 8%;
+    
+   
+    object-fit: cover;
+}
+.d-block{
+    object-fit: cover;
+border-color: black;
+border:2px solid #849dc8;
+}
+.home{
+    margin-left: 10rem;
+    margin-top: 2rem;
+
+}
+.breadcrumb-item.active{
+color:#849dc8;
+padding-left: 70px;
+}

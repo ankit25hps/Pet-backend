@@ -1,0 +1,15 @@
+.nav {
+    background-color: #7ec6e8;
+}
+
+.side-bar-color,
+.side-bar-hover {
+    text-decoration: none;
+    color:  #08297c;
+    font-weight: 700;
+}
+
+.side-bar {
+    width: 10rem;
+    float: left;
+}
